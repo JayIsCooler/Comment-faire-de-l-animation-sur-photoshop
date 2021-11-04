@@ -13,4 +13,4 @@ exemple d'utilisation du markdown
 - Second item
 - Third item
 - Fourth item
-! [Big chungus](![2021-11-04-11-24-08](https://user-images.githubusercontent.com/93718386/140359097-f8f479b6-2fb2-450e-a110-c29c6edc5fa8.gif)
+! [salut](![2021-11-04-11-24-08](https://user-images.githubusercontent.com/93718386/140359097-f8f479b6-2fb2-450e-a110-c29c6edc5fa8.gif)
