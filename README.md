@@ -1,7 +1,7 @@
 # clairement_le_meilleur_projet
 exemple d'utilisation du markdown
 !![Big chungus](https://i.redd.it/s26ue85xwe921.png)
-##yo
+## Yo
 
 1. First item
 1. Second item
