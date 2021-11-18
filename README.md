@@ -1,4 +1,4 @@
-#                                   Comment faire de l'animation sur photoshop
+# Comment faire de l'animation sur photoshop
 
 ![Adobe-Photoshop-Logo](https://user-images.githubusercontent.com/93718386/142339569-4b9d7078-cd41-4ec0-9e77-5e2181023adb.png)
 
@@ -21,9 +21,7 @@
 
 
 
-## Seconde liste
-- First item
-- Second item
-- Third item
-- Fourth item
-![2021-11-04-11-24-08](https://user-images.githubusercontent.com/93718386/140359097-f8f479b6-2fb2-450e-a110-c29c6edc5fa8.gif)
+## Comment créer une animation
+1. appuyer sur créer une animation d'image
+2. dessiner sur le calque
+3. ajouter un calque pour chaque élément à animer
