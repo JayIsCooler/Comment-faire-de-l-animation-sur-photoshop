@@ -58,3 +58,22 @@ Pour pouvoir faire une animation fluide sur photoshop il faut utiliser beaucoup 
 ![sauvegarde](media/sauvegarde.gif)
 
 
+
+
+### Vous savez tout ce qu'il faut pour bien débuter en animation sur photoshop
+
+La seule chose qu'il manque pour effectuer une animation sur photoshop c'est vous! Il faut beaucoup de patience lorsque l'on anime sur photoshop, mais une fois que l'ont travaillent sur un projet nous ne voyons plus le temps passer. L'animation est accessible à tout le monde, ce n'est donc pas très compliquer de s'en servir. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
