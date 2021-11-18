@@ -27,7 +27,7 @@
 3. Ajouter un calque pour chaque élément à animer
 
 
-![tuto 2](media/tutoriel 1 (2).gif)
+![tuto 2](media/tuto 2.gif)
 
 
 ### Exemple d'animation photoshop
