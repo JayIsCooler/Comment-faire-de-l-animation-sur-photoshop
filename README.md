@@ -10,7 +10,7 @@
 4. Espace de travail
 5. Sélectionner mouvement 
 
-![gif](media/
+![gif](media/2021-11-17-22-16-12.gif)
 
 ![gif](media/tutoriel-1-(2).gif)
 
