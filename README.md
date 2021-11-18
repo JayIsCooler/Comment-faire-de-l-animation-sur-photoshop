@@ -31,6 +31,6 @@
 
 
 ### Exemple d'animation photoshop
-! Voici quelque exemples d'animation effectuer sur photoshop
+Voici quelque exemples d'animation effectuer sur photoshop
 
 ![gif](https://user-images.githubusercontent.com/93718386/142340558-2a1b28a6-7f88-4193-80cc-609a516fdae3.gif)
