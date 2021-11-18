@@ -22,6 +22,6 @@
 
 
 ## Comment créer une animation
-1. appuyer sur créer une animation d'image
-2. dessiner sur le calque
-3. ajouter un calque pour chaque élément à animer
+1. Appuyer sur créer une animation d'image
+2. Dessiner sur le calque
+3. Ajouter un calque pour chaque élément à animer
