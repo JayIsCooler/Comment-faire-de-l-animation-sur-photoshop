@@ -1,6 +1,6 @@
 # Comment faire de l'animation sur photoshop
 
-![Adobe-Photoshop-Logo](https://user-images.githubusercontent.com/93718386/142339569-4b9d7078-cd41-4ec0-9e77-5e2181023adb.png)
+![Adobe-Photoshop-Logo](media/Adobe-Photoshop-Logo.png)
 
 ## Les étapes pour bien démarrer en animation
 
