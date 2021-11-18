@@ -12,7 +12,7 @@
 
 
 
-![tutoriel 1 (3)](media/tutoriel 1 (2).gif)
+![gif](media/tutoriel 1 (2).gif)
 
 
 
