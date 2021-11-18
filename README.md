@@ -52,4 +52,7 @@ Voici quelque exemples d'animation effectuer sur photoshop
 
 ![gif-7](media/gif-7.gif)
 
+### Pour faire une animation fluide
+Pour pouvoir faire une animation fluide sur photoshop il faut utiliser beaucoup de calque. Cela veut donc dire qu'il va falloir consacrer beaucoup de temps à son animation pour la rendre la plus fluide possible. Je vous conseille de toujours sauvegarder après avoir créer un nouveau calque au cas où photoshop se fermerais à cause d'un bug ou autre pour ne pas perdre toute vôtre progression.
+
 
