@@ -34,3 +34,22 @@
 Voici quelque exemples d'animation effectuer sur photoshop
 
 ![gif](https://user-images.githubusercontent.com/93718386/142340558-2a1b28a6-7f88-4193-80cc-609a516fdae3.gif)
+
+![gif-2](https://user-images.githubusercontent.com/93718386/142340729-ea50586c-65ee-4e11-b639-0fc1154bb3b3.gif)
+
+
+![gif-3](https://user-images.githubusercontent.com/93718386/142340734-22bd26ab-ab58-4e63-9a63-f3580aeb262b.gif)
+
+
+![gif-4](https://user-images.githubusercontent.com/93718386/142340756-8671acff-3d57-4539-98cc-33d1c7948501.gif)
+
+
+![gif-5](https://user-images.githubusercontent.com/93718386/142340779-8bf6e812-dd2e-4b0e-b1fd-fc86aea26b43.gif)
+
+
+![gif-6](https://user-images.githubusercontent.com/93718386/142340803-eb1e9fd2-d94e-4fe7-9d56-f97b410377f5.gif)
+
+
+![gif-7](https://user-images.githubusercontent.com/93718386/142340821-c9ba0042-8ca4-45ed-8491-5aa945caae33.gif)
+
+
