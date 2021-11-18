@@ -1,12 +1,23 @@
-# clairement_le_meilleur_projet
-exemple d'utilisation du markdown
-!![Big chungus](https://i.redd.it/s26ue85xwe921.png)
-## Yo
+# Comment faire de l'animation sur photoshop
 
-1. First item
-1. Second item
-1. Third item
-1. Fourth item
+!![Big chungus](https://i.redd.it/s26ue85xwe921.png)
+## Les étapes pour bien démarrer en animation
+
+1. Démarrer photoshop
+2. se créer un nouveau document 
+3. Aller dans fenêtre 
+4. Espace de travail
+5. Sélectionner mouvement 
+
+
+
+
+
+
+
+
+
+
 
 ## Seconde liste
 - First item
