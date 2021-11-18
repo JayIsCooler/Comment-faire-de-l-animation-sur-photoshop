@@ -69,6 +69,13 @@ La seule chose qu'il manque pour effectuer une animation sur photoshop c'est vou
 
 
 
+### Vous êtes un expert de l'animation !!!
+
+![image4](media/)
+
+
+
+
 
 
 
