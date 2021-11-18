@@ -12,7 +12,7 @@
 
 
 
-![tutoriel 1 (3)](https://user-images.githubusercontent.com/93718386/142339442-82752a7b-b8a6-4948-bc1a-19ae8becc246.gif)
+![tutoriel 1 (3)](media/tutoriel 1 (2).gif)
 
 
 
