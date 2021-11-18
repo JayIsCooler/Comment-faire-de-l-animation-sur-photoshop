@@ -33,7 +33,7 @@
 ### Exemple d'animation photoshop
 Voici quelque exemples d'animation effectuer sur photoshop
 
-![gif](https://user-images.githubusercontent.com/93718386/142340558-2a1b28a6-7f88-4193-80cc-609a516fdae3.gif)
+![gif](media/gif.gif)
 
 ![gif-2](https://user-images.githubusercontent.com/93718386/142340729-ea50586c-65ee-4e11-b639-0fc1154bb3b3.gif)
 
