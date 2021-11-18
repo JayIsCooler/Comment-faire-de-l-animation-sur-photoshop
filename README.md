@@ -28,7 +28,7 @@
 
 
 ![tuto 2](media/tuto-2.gif)
-
+![gif](media/2021-11-17-22-16-22.gif)
 
 ### Exemple d'animation photoshop
 Voici quelque exemples d'animation effectuer sur photoshop
