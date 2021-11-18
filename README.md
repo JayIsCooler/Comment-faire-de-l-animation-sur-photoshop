@@ -1,6 +1,6 @@
 # Comment faire de l'animation sur photoshop
 
-!![Big chungus](https://i.redd.it/s26ue85xwe921.png)
+![Big chungus](https://i.redd.it/s26ue85xwe921.png)
 ## Les étapes pour bien démarrer en animation
 
 1. Démarrer photoshop
