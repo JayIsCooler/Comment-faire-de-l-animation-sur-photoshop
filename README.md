@@ -25,3 +25,6 @@
 1. Appuyer sur créer une animation d'image
 2. Dessiner sur le calque
 3. Ajouter un calque pour chaque élément à animer
+
+
+![tuto 2](https://user-images.githubusercontent.com/93718386/142340423-f14b461d-e40b-4e28-99d7-7447c7b209e4.gif)
