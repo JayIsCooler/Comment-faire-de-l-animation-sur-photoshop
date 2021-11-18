@@ -28,3 +28,7 @@
 
 
 ![tuto 2](https://user-images.githubusercontent.com/93718386/142340423-f14b461d-e40b-4e28-99d7-7447c7b209e4.gif)
+
+
+### Exemple d'animation photoshop
+![gif](https://user-images.githubusercontent.com/93718386/142340558-2a1b28a6-7f88-4193-80cc-609a516fdae3.gif)
